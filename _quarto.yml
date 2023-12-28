@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ryan Block"
+  navbar:
+    search: false
+    background: "#325d88"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: test.qmd
+        text: Test
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    linkcolor: "#ff33f0"
+    css: styles.css
+    toc: true
+
+
+
