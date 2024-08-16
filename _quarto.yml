@@ -2,6 +2,39 @@ project:
   type: website
   output-dir: docs
 
+  
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    linkcolor: "#ff33f0"
+    css: styles.css
+    toc: false
+
+
+  
+  # Site Author
+# author:
+#   name: "Ryan Block"
+#   avatar: "headshot.png"
+#   bio: "Ph.D. Student"
+#   email:  #rjb14@rice.edu
+#   employer: 'Rice University'
+#   location: "Houston, TX"
+#   googlescholar:
+#   researchgate:
+#   uri:
+#   bitbucket:
+#   codepen:
+#   github: #"ryanjblock"
+#   orcid: #"http://orcid.org/yourorcidurl"
+#   stackoverflow: # http://stackoverflow.com/users/123456/username
+#   twitter: #RyanJBlock
+#   youtube:
+#   wikipedia:
+
+
 website:
   title: "Ryan Block"
   navbar:
@@ -10,19 +43,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - href: test.qmd
-        text: Test
-
-format:
-  html:
-    theme: sandstone
-    mainfont: arial
-    fontsize: 1.5rem
-    linkcolor: "#ff33f0"
-    css: styles.css
-    toc: true
-
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: Vita
+    tools: 
+      - icon: twitter
+        href: https://x.com/RyanJBlock
+        
+        
 
 

@@ -13,6 +13,6 @@ about:
   id: ppc
 ---
 
-Hello! I am a Ph.D. student in the Department of Political Science at Rice University. I study comparative politics, with a focus on mass political behavior in Europe. 
+Hello! I am a Ph.D. student in the Department of Political Science at Rice University. I study comparative politics, with a focus on mass political partisanship and political parties in Western democracies. 
 
-
+  

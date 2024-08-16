@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Contact"
+permalink: /research/
 ---
 
 About this site
