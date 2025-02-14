@@ -2,12 +2,35 @@ project:
   type: website
   output-dir: docs
 
+
+website:
+  title: "Ryan Block"
+  navbar:
+    search: false
+    background: "#325d88"
+    right:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: Vita
+      - icon: envelope
+        href: mailto:rjb14@rice.edu
+      - text: "{{< fa brands bluesky>}}"
+        href: https://bsky.app/profile/ryanjblock.bsky.social
+  page-footer:
+    background: light
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ryanjblock/ryanjblock.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
   
 format:
   html:
-    theme: sandstone
-    mainfont: arial
-    fontsize: 1.5rem
+    theme: 
+      - sandstone
+      - html/styles.scss
+    mainfont: Montserrat
+    fontsize: 1.1em
     linkcolor: "#ff33f0"
     css: styles.css
     toc: false
@@ -35,21 +58,7 @@ format:
 #   wikipedia:
 
 
-website:
-  title: "Ryan Block"
-  navbar:
-    search: false
-    background: "#325d88"
-    left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: cv.qmd
-        text: Vita
-    tools: 
-      - icon: twitter
-        href: https://x.com/RyanJBlock
+
         
         
 

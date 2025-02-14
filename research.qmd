@@ -3,15 +3,18 @@ title: "Research"
 permalink: /research/
 ---
 
-## Working Papers
+## Peer-Reviewed Articles
 
-Peterson, Erik, Shannon C. McGregor, and **Ryan Block**. "Covering Election Denial: Local Journalists in the 2022 Midterms."
-[[working paper](/papers/PetersonMcGregorBlock - ElectionDenialLocalJournalists - April 2024.pdf)]
+Peterson, Erik, Shannon C. McGregor, and **Ryan Block**. 2025. ["Election Denial as a News Coverage Dilemma: A Survey Experiment with Local Journalists."](https://www.tandfonline.com/doi/full/10.1080/10584609.2025.2456524){target=_blank} *Political Communication*, 1-20.
 
 ## Works in Progress
 
-"The Measurement and Structure of Partisan Identity in Multi-Party Democracies." (with Randolph Stevenson)
+"Partisan Identity in Multi-Party Democracies" (Book manuscript with Randolph Stevenson and Seonghui Lee)
 
-"Multiple Partisan Identities and Party Cues." (with Randolph Stevenson)
+"The Influence of Multiple Partisan Attachments on Economic Perceptions in Multi-Party Democracies"
 
-"Gender, Age, Class, and Partisanship in a Multi-Party Context." (with Gonzalo Di Landro)
+"Divided by Partisanship: How Young Men Now Identify With the Radical Right" (with Gonzalo Di Landro)
+
+"Multiple Partisan Identities and Party Cues" (with Randolph Stevenson)
+
+
