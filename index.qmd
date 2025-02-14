@@ -1,18 +1,45 @@
 ---
 title: "Ryan Block"
-image: final_2.png
+pagetitle: "Ryan Block"
+subtitle: "PhD Student,<br>Rice University"
+image: assets/images/final_2.png
+
 about: 
-  template: solana
+  template: trestles
+  image-width: 18em
+  image-shape: rounded
+  id: hero-heading
   links:
-    - text: Email
+    - text: E-mail
       icon: envelope
       href: mailto:rjb14@rice.edu
-    - text: CV
-      icon: file-text
-      href: cv.pdf
-  id: ppc
+    - text: "{{< fa brands bluesky>}} Bluesky"
+      href: https://bsky.app/profile/ryanjblock.bsky.social
+      target: _blank
+    - text: "{{< fa brands google-scholar>}} Google Scholar"
+      href: https://scholar.google.com/citations?user=TNAmGY4AAAAJ&hl=en
+      target: _blank
+    - text: GitHub
+      icon: github
+      href: https://github.com/ryanjblock
+      target: _blank
+      
+format:
+  html:
+    grid:
+      body-width: 1200px
 ---
 
-Hello! I am a Ph.D. student in the Department of Political Science at Rice University. I study comparative politics, with a focus on mass political partisanship and political parties in Western democracies. 
+
+::: {#hero-heading}
+
+<div class="h1">Welcome!</div>
+
+I am a Ph.D. student in the Department of Political Science at Rice University. I study comparative politics, with a focus on political behavior in advanced democracies. 
+
+My work is centered around the idea that citizens in multi-party democracies can develop attachments to and identify with multiple political parties. In my dissertation, I explore the behavioral consequences of these multi-party identities, specifically looking at how they can change patterns of motivated reasoning and strategic voting. I use a wide range of methodological tools in my research, including mass surveys, experiments, and machine learning. 
+
+:::
+
 
   
