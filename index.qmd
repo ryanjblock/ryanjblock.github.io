@@ -30,6 +30,7 @@ format:
       body-width: 1200px
 ---
 
+
 ::: {#hero-heading}
 
 <div class="h1">Welcome!</div>
@@ -40,3 +41,5 @@ My work is centered around the idea that citizens in multi-party democracies can
 
 :::
 
+
+  

@@ -1288,3 +1288,4 @@ async function fuseSearch(query, fuse, fuseOptions) {
   }
   return results;
 }
+

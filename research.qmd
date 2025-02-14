@@ -1,3 +1,4 @@
+
 ---
 title: "Research"
 permalink: /research/
@@ -16,5 +17,3 @@ Peterson, Erik, Shannon C. McGregor, and **Ryan Block**. 2025. ["Election Denial
 "Divided by Partisanship: How Young Men Now Identify With the Radical Right" (with Gonzalo Di Landro)
 
 "Multiple Partisan Identities and Party Cues" (with Randolph Stevenson)
-
-
