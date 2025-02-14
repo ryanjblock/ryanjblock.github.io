@@ -13,15 +13,18 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: cv.qmd
         text: Vita
       - icon: envelope
         href: mailto:rjb14@rice.edu
       - text: "{{< fa brands bluesky>}}"
         href: https://bsky.app/profile/ryanjblock.bsky.social
+        target: _blank
   page-footer:
     background: light
-    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ryanjblock/ryanjblock.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+    right: This website is built with [Quarto](https://quarto.org/){target=_blank}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/ryanjblock/ryanjblock.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and {{< fa heart title="a heart" >}}
 
   
 format:
@@ -32,12 +35,10 @@ format:
     mainfont: Montserrat
     fontsize: 1.1em
     linkcolor: "#ff33f0"
-    css: styles.css
     toc: false
 
 
-  
-  # Site Author
+# Site Author
 # author:
 #   name: "Ryan Block"
 #   avatar: "headshot.png"
@@ -59,7 +60,5 @@ format:
 
 
 
-        
-        
 
 
