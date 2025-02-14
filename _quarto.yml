@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 
+
 website:
   title: "Ryan Block"
   navbar:
@@ -35,9 +36,8 @@ format:
     css: styles.css
     toc: false
 
-
   
-  # Site Author
+# Site Author
 # author:
 #   name: "Ryan Block"
 #   avatar: "headshot.png"
@@ -56,7 +56,6 @@ format:
 #   twitter: #RyanJBlock
 #   youtube:
 #   wikipedia:
-
 
 
         
