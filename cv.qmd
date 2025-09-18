@@ -5,9 +5,9 @@ title: Curriculum Vitae
 excerpt: My current CV
 engine: knitr 
 resources:
-  - "assets/cv.pdf"
+  - "assets/cv_sept_2025.pdf"
 cv:
-  pdf: "assets/cv.pdf"
+  pdf: "assets/cv_sept_2025.pdf"
 ---
 
 ```{css echo=FALSE}

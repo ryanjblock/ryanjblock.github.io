@@ -7,23 +7,23 @@ permalink: /teaching/
 
 ### Graduate Courses
 
-**Introduction to Statistics (Fall 2023)**  
-*Prof. Matthew Tyler*  
-⭐️⭐️⭐️⭐️️⭐️(5/5)
+**Introduction to Statistics (Fall 2023)**\
+*Prof. Matthew Tyler*\
+[{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} (5/5)
 
-**Causal Inference (Spring 2024)**  
-*Prof. Erik Peterson*  
-️⭐️⭐️⭐️⭐️️⭐️(5/5)
+**Causal Inference (Spring 2024)**\
+*Prof. Erik Peterson*\
+[{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} ️(5/5)
 
-**Maximum Likelihood Estimation (Fall 2024)**  
-*Prof. Randy Stevenson*  
-⭐️⭐️⭐️⭐️️⭐️(5/5) 
+**Maximum Likelihood Estimation (Fall 2024)**\
+*Prof. Randy Stevenson*\
+[{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} (5/5)
 
-**Measurement and Research Design (Spring 2025)**  
-*Prof. Randy Stevenson*  
-*In progress*
+**Measurement and Research Design (Spring 2025)**\
+*Prof. Randy Stevenson*\
+[{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star >}}]{style="color: #FFD43B;"} [{{< fa star-half >}}]{style="color: #FFD43B;"} (4.5/5)
 
----
+------------------------------------------------------------------------
 
 ## Select Reviews From Students
 
@@ -35,4 +35,4 @@ permalink: /teaching/
 
 > *"Ryan didn't hesitate to help. He clarified my confusion and encouraged me to do my best."*
 
-> *"Ryan was an extremely effective and helpful TA. During his office hours, and even outside of them if he had the time, he was always willing to help and ensure that we actually learned the concept at hand rather than just give us the answers. While [the instructor] was effective as a professor on his own, Ryan further enhanced the ability of us students to grasp these subjects and succeed in this class."*
+> *"Ryan was an extremely effective and helpful TA. During his office hours, and even outside of them if he had the time, he was always willing to help and ensure that we actually learned the concept at hand rather than just give us the answers. While \[the instructor\] was effective as a professor on his own, Ryan further enhanced the ability of us students to grasp these subjects and succeed in this class."*
