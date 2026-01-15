@@ -37,7 +37,7 @@ format:
 
 I am a PhD candidate in the Department of Political Science at Rice University. This academic year, I will be a visiting doctoral student at the Chair of Quantitative Methods in the Social Sciences at the University of Mannheim. 
 
-I study comparative politics, with a focus on political behavior in advanced democracies. My research explores the nature of partisan identity and attachment in multi-party systems. In my dissertation, I examine the underlying causes of partisan dealignment in Europe by incorporating the expressive and instrumental models of partisanship, as well as contextual party- and country-level factors, into existing theories of dealignment. I also propose a novel explanation based on the idea that voters can form attachments to multiple parties, which causes traditional measures of partisanship to overestimate the proportion of independents in surveys. I use a wide range of methodological tools in my research, including mass surveys, experiments, and machine learning. 
+I study comparative politics, with a focus on political behavior in advanced democracies. My research explores the nature of partisan identity and attachment in multi-party systems. In my dissertation, I explore the various factors that affect how citizens develop attachments to multiple parties, such as overlapping social group membership, shared policy goals, and partisan cooperation in coalition governments. I use a wide range of methodological tools in my research, including mass surveys, experiments, and machine learning. 
 
 I hold an M.A. in Political Science from Rice University and a B.S. in Political Science from Texas A&M University. 
 
